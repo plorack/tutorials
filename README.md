@@ -6,4 +6,4 @@ As part of my coding journey I often face problems which I need to solve. You wi
 
 You can:
 - Download the Jupyter notebook or RMarkdowns' directly
-- Browse the notbooks in html version to make your mind first by following this [link](plorack.github.io/tutorials/)
+- Browse the notbooks in html version to make up your mind first by following this [link](https://plorack.github.io/tutorials/)
